@@ -9,6 +9,6 @@ Como podrán observar está dividido en carpetas, las cuales contienen todas las
 
 -Estadística
 
--Hardware
+-NLP
 
 En cada carpeta se encuentran las actividades separadas en carpetas que contienen todos los archivos de las mismas.

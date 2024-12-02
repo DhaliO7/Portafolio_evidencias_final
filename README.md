@@ -5,7 +5,7 @@ Este repositorio contiene las evidencias: Evidencia 1. Portafolio de análisis y
 
 Como podrán observar está dividido en carpetas, las cuales contienen todas las actividades realizadas de los respectivos módulos.
 
--Machine Learning
+-Deep Learning
 
 -Estadística
 
